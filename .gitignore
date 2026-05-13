@@ -1,0 +1,16 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary CAD/export files
+*.tmp
+*.bak
+*.log
+*.autosave
+
+# Slicer/project scratch outputs
+*.gcode
+*.bgcode
+
+# Keep source/project artifacts tracked by default.
