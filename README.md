@@ -41,7 +41,7 @@ The Ender 6 is being used as a frame donor only. Motion, Z drive, electronics, t
 
 The workspace currently includes these printed-part archives:
 
-- `2040 A B Drive Brackets Trident.zip`
-- `2040 Front Mounts Trident..zip`
+- `STLS/2040 A B Drive Brackets Trident.zip`
+- `STLS/2040 Front Mounts Trident..zip`
 
 These are tracked in the printed-parts index as candidate gantry components.

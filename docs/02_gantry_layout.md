@@ -44,8 +44,8 @@ The workspace already includes candidate gantry parts:
 
 | Archive | Contents |
 |---|---|
-| `2040 A B Drive Brackets Trident.zip` | `A_Lower_Final V1.STL`, `A_Upper_Final V1.STL`, `BLower modified.STL`, `BUpper modified.STL` |
-| `2040 Front Mounts Trident..zip` | `Stepper Left.STL`, `Stepper Right.STL` |
+| `STLS/2040 A B Drive Brackets Trident.zip` | `A_Lower_Final V1.STL`, `A_Upper_Final V1.STL`, `BLower modified.STL`, `BUpper modified.STL` |
+| `STLS/2040 Front Mounts Trident..zip` | `Stepper Left.STL`, `Stepper Right.STL` |
 
 These parts should be treated as candidate hardware until fit is checked against the Ender 6 frame and chosen belt path.
 

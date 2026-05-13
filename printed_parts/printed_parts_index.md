@@ -4,7 +4,7 @@ This index tracks known printed parts and parts that still need to be designed o
 
 ## Existing Candidate Archives
 
-### `2040 A B Drive Brackets Trident.zip`
+### `STLS/2040 A B Drive Brackets Trident.zip`
 
 Contents:
 
@@ -17,7 +17,7 @@ Status: candidate A/B rear drive brackets. Fit must be checked against the Ender
 
 Compatibility note: these parts are assumed to be for 2040 gantry extrusion.
 
-### `2040 Front Mounts Trident..zip`
+### `STLS/2040 Front Mounts Trident..zip`
 
 Contents:
 
